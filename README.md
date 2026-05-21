@@ -87,7 +87,7 @@ hobbies:
 
 <h2> 🌐 Contato </h2>
 
-<a href="COLOQUE_SEU_LINK_DO_GITHUB">
+<a href="(https://github.com/Calebe-Barros)">
   <img src="https://skillicons.dev/icons?i=github" width="50"/>
 </a>
 
