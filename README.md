@@ -7,7 +7,8 @@
 </p>
 
 <h1 align="center">
-  👋 Olá, eu sou o Calebe
+  👋 Olá, eu sou o Calebe 
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWtsN3ZvazNhMDhkcHRqcDVnOG8xYmlkZWNiNm1uNjd4ZmE3cDlzYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ivSCbBQjwLz7q/giphy.gif" width="35px">
 </h1>
 
 <p align="center">
