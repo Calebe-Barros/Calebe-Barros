@@ -18,7 +18,7 @@
 
 ```yaml
 nome: Calebe Barros Ramalho da Silva
-localização: São Paulo - Jundiaí, Brasil
+localização: São Paulo, Brasil
 
 educação:
   [
@@ -28,10 +28,11 @@ educação:
 áreas_de_interesse:
   [
     "Desenvolvimento Web",
-    "Criação com Interligência Artificial",
-    "Edição de Imagens",
+    "Back-End",
+    "Banco de Dados",
     "Programação",
     "Tecnologia",
+    "UI/UX",
   ]
 
 atualmente_aprendendo:
@@ -67,6 +68,8 @@ hobbies:
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45"/>
@@ -75,25 +78,54 @@ hobbies:
 
 ---
 
+<h2> 🤝 Grupo ACDK </h2>
+
+```yaml
+grupo:
+  "ACDK"
+
+descrição:
+  "Grupo acadêmico voltado para projetos, atividades e estudos do curso INFONET."
+
+disciplinas:
+  [
+    "Desenvolvimento Web",
+    "Banco de Dados",
+    "Arte Digital",
+    "Programação e Algoritmos",
+  ]
+```
+
+<p align="center">
+  <a href="https://github.com/ACDK-ETECVAV">
+    <img src="https://img.shields.io/badge/Grupo-ACDK-2563eb?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
 <h2> 📊 GitHub Stats </h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SansPlayFull&show_icons=true&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Calebe-Barros&show_icons=true&theme=tokyonight"/>
   
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SansPlayFull&layout=compact&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Calebe-Barros&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
 <h2> 🌐 Contato </h2>
 
-<a href="[https://github.com/Calebe-Barros]">
+<p align="center">
+
+<a href="https://github.com/Calebe-Barros">
   <img src="https://skillicons.dev/icons?i=github" width="50"/>
 </a>
 
 <a href="mailto:calebebarros108@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" width="50"/>
 </a>
+
 </p>
 
 ---
