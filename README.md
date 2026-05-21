@@ -1,54 +1,110 @@
-<h1 align="center">Oi, me chamo Calebe Barros <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWtsN3ZvazNhMDhkcHRqcDVnOG8xYmlkZWNiNm1uNjd4ZmE3cDlzYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ivSCbBQjwLz7q/giphy.gif" width="30px"> </h1>
-<h3 align="center">Estudante de INFONET | Grupo ACDK</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Calebe%20Barros&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+</p>
+
+<h1 align="center">
+  👋 Olá, eu sou o Calebe
+</h1>
 
 <p align="center">
-  <a href="mailto:calebebarros108@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/julia-krisnarane-moraes-410417345/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+💻 Estudante de Informática para Internet <br>
+🎓 ETECVAV — INFONET <br>
+🌐 Desenvolvedor focado em Web e Back-End
 </p>
-<img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
+---
 
-<div align="left">
-<fieldset style="border: 2px solid #F82A94; border-radius: 10px; padding: 20px; max-width: 800px;">
-  <legend align="left"><h3>👩🏻‍💻 Sobre Mim</h3></legend>
+<h2> 🚀 Sobre Mim </h2>
 
-  <em>
-Sou estudante do curso técnico de <strong>Informática para Internet</strong> na <strong>ETECVAV</strong> e desenvolvedor iniciante focado em programação, desenvolvimento web e criação de projetos acadêmicos. Minha jornada na tecnologia começou através dos estudos em desenvolvimento web, lógica de programação e banco de dados, áreas nas quais venho desenvolvendo habilidades práticas durante o curso.</p>
-  </em> 
-  <br>
-<div align= "center">
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"/> <b><i>Tecnologias em aprendizado</i></b> 
-</div>
+```yaml
+nome: Calebe Barros Ramalho da Silva
+localização: São Paulo, Brasil
 
-<br>
+educação:
+  [
+    "Técnico em Informática para Internet - ETECVAV",
+  ]
+
+áreas_de_interesse:
+  [
+    "Desenvolvimento Web",
+    "Back-End",
+    "Banco de Dados",
+    "Programação",
+    "Tecnologia",
+    "UI/UX",
+  ]
+
+atualmente_aprendendo:
+  [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Banco de Dados",
+    "Lógica de Programação",
+  ]
+
+objetivos:
+  [
+    "Criar projetos cada vez mais profissionais",
+    "Melhorar minhas habilidades em programação",
+    "Aprender novas tecnologias",
+  ]
+
+hobbies:
+  [
+    "Gaming",
+    "Tecnologia",
+    "Música",
+    "Edição",
+    "Desenvolvimento de Projetos",
+  ]
+```
+
+---
+
+<h2> 🛠️ Ferramentas e Tecnologias </h2>
+
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45"/>
+</p>
+
+---
+
+<h2> 📊 GitHub Stats </h2>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SansPlayFull&show_icons=true&theme=tokyonight"/>
   
-<p style="display: inline-block;" align="center">
-   <kbd>
-    <kbd>Back-end</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
-  </kbd>
-  <kbd>
-    <kbd>Front-end</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
-  </kbd>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SansPlayFull&layout=compact&theme=tokyonight"/>
+</p>
 
+---
 
+<h2> 🌐 Contato </h2>
 
-<div align="center">
-  <a href="https://github.com/krisnarane">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=krisnarane&show_icons=true&include_all_commits=true&count_private=true&bg_color=1F1D36&title_color=E94560&text_color=FFE3E3&icon_color=F85AFF&border_color=E94560"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krisnarane&layout=compact&langs_count=7&bg_color=1F1D36&title_color=E94560&text_color=FFE3E3&border_color=E94560"/>
-  </a>
-</div>
+<p align="center">
+<a href="COLOQUE_SEU_LINK_DO_INSTAGRAM">
+  <img src="https://skillicons.dev/icons?i=instagram" width="50"/>
+</a>
 
-<br>
-<br>
+<a href="COLOQUE_SEU_LINK_DO_GITHUB">
+  <img src="https://skillicons.dev/icons?i=github" width="50"/>
+</a>
 
-- 📫 Contato: **jkrisnarane@gmail.com**
+<a href="mailto:calebebarros108@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" width="50"/>
+</a>
+</p>
 
-<p align="center"> 
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=120&section=footer"/>
+</p>
