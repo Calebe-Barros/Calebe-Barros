@@ -107,12 +107,10 @@ disciplinas:
 
 ---
 
-<h2> 📊 GitHub Stats </h2>
+<h2> 🐍 Snake Game </h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Calebe-Barros&show_icons=true&theme=tokyonight"/>
-  
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Calebe-Barros&layout=compact&theme=tokyonight"/>
+  <img src="https://github.com/Calebe-Barros/Calebe-Barros/blob/output/github-contribution-grid-snake-dark.svg">
 </p>
 
 ---
