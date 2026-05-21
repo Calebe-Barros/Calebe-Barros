@@ -18,7 +18,7 @@
 
 ```yaml
 nome: Calebe Barros Ramalho da Silva
-localização: São Paulo, Brasil
+localização: São Paulo - Jundiaí, Brasil
 
 educação:
   [
@@ -28,11 +28,10 @@ educação:
 áreas_de_interesse:
   [
     "Desenvolvimento Web",
-    "Back-End",
-    "Banco de Dados",
+    "Criação com Interligência Artificial",
+    "Edição de Imagens",
     "Programação",
     "Tecnologia",
-    "UI/UX",
   ]
 
 atualmente_aprendendo:
@@ -68,11 +67,10 @@ hobbies:
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/45/The_GIMP_icon_-_gnome.svg" width="45" height="45"/>
 </p>
 
 ---
@@ -88,11 +86,6 @@ hobbies:
 ---
 
 <h2> 🌐 Contato </h2>
-
-<p align="center">
-<a href="COLOQUE_SEU_LINK_DO_INSTAGRAM">
-  <img src="https://skillicons.dev/icons?i=instagram" width="50"/>
-</a>
 
 <a href="COLOQUE_SEU_LINK_DO_GITHUB">
   <img src="https://skillicons.dev/icons?i=github" width="50"/>
