@@ -13,7 +13,7 @@
   <legend align="left"><h3>👩🏻‍💻 Sobre Mim</h3></legend>
 
   <em>
-Sou uma desenvolvedora Back-End e estudante do 2° semestre de <strong>Análise e Desenvolvimento de Sistemas</strong> na <strong>Fatec Mogi das Cruzes</strong>. Minha jornada na tecnologia começou com o ensino médio técnico em Informática para a Internet, o que me deu uma base sólida que hoje aplico com foco em desenvolvimento de software.</p>
+Sou estudante do curso técnico de <strong>Informática para Internet</strong> na <strong>ETECVAV</strong> e desenvolvedor iniciante focado em programação, desenvolvimento web e criação de projetos acadêmicos. Minha jornada na tecnologia começou através dos estudos em desenvolvimento web, lógica de programação e banco de dados, áreas nas quais venho desenvolvendo habilidades práticas durante o curso.</p>
   </em> 
   <br>
 <div align= "center">
