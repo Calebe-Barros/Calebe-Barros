@@ -37,16 +37,12 @@ educação:
     "Banco de Dados",
     "Programação",
     "Tecnologia",
-    "UI/UX",
   ]
 
 atualmente_aprendendo:
   [
     "HTML",
     "CSS",
-    "JavaScript",
-    "Banco de Dados",
-    "Lógica de Programação",
   ]
 
 objetivos:
@@ -59,7 +55,6 @@ objetivos:
 hobbies:
   [
     "Gaming",
-    "Tecnologia",
     "Música",
     "Edição",
     "Desenvolvimento de Projetos",
