@@ -19,6 +19,31 @@
 
 ---
 
+## 💳 Certificados
+
+<div align="center">
+
+<a href="https://skills.yourlearning.ibm.com/certificate/share/8b7190ea18ewogICJsZWFybmVyQ05VTSIgOiAiNzk3OTI5OFJFRyIsCiAgIm9iamVjdFR5cGUiIDogIkFDVElWSVRZIiwKICAib2JqZWN0SWQiIDogIkFMTS1DT1VSU0VfMzgyNjM4MyIKfQa1f03774df-10">
+    <img src="certificados/ibm-skillsbuild-ptic.png" alt="Certificado 1" width="220">
+</a>
+
+<a href="#">
+    <img src="certificados/certificado-02.png" alt="Certificado 2" width="220">
+</a>
+
+<a href="#">
+    <img src="certificados/certificado-03.png" alt="Certificado 3" width="220">
+</a>
+
+<a href="#">
+    <img src="certificados/certificado-04.png" alt="Certificado 4" width="220">
+</a>
+
+</div>
+
+
+---
+
 <h2> 🚀 Sobre Mim </h2>
 
 ```yaml
