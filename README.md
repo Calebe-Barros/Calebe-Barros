@@ -41,6 +41,27 @@
 
 </div>
 
+<div align="center">
+
+<a href="https://skills.yourlearning.ibm.com/certificate/share/9eb8ce7868ewogICJvYmplY3RUeXBlIiA6ICJBQ1RJVklUWSIsCiAgImxlYXJuZXJDTlVNIiA6ICI3OTc5Mjk4UkVHIiwKICAib2JqZWN0SWQiIDogIkFMTS1DT1VSU0VfMzgyNjM4NSIKfQbef5aa17a3-10">
+    <img src="certificados/ibm-skillsbuild-ptic2.png" alt="Certificado 5" width="220">
+</a>
+
+<a href="#">
+    <img src="certificados/certificado-02.png" alt="Certificado 6" width="220">
+</a>
+
+<a href="#">
+    <img src="certificados/certificado-03.png" alt="Certificado 7" width="220">
+</a>
+
+<a href="#">
+    <img src="certificados/certificado-04.png" alt="Certificado 8" width="220">
+</a>
+
+</div>
+
+
 
 ---
 
