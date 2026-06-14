@@ -19,7 +19,7 @@
 
 ---
 
-## 💳 Certificados
+<h1 align="center"> 💳 Certificados</h1>
 
 <div align="center">
 
@@ -42,7 +42,7 @@
 
 ---
 
-<h2> 🚀 Sobre Mim </h2>
+<h2 align="center"> 🚀 Sobre Mim </h2>
 
 ```yaml
 nome: Calebe Barros Ramalho da Silva
@@ -86,9 +86,9 @@ hobbies:
 
 ---
 
-<h2> 🛠️ Ferramentas e Tecnologias </h2>
+<h2 align="center"> 🛠️ Ferramentas e Tecnologias </h2>
 
-<p align="left">
+<p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>
@@ -99,7 +99,7 @@ hobbies:
 
 ---
 
-<h2> 🤝 Grupo ACDK </h2>
+<h2 align="center"> 🤝 Grupo ACDK </h2>
 
 ```yaml
 grupo:
@@ -125,7 +125,7 @@ disciplinas:
 
 ---
 
-<h2> 🐍 Snake Game </h2>
+<h2 align="center"> 🐍 Snake Game </h2>
 
 <p align="center">
   <img src="https://github.com/Calebe-Barros/Calebe-Barros/blob/output/github-contribution-grid-snake-dark.svg">
@@ -133,7 +133,7 @@ disciplinas:
 
 ---
 
-<h2> 🌐 Contato </h2>
+<h2 align="center"> 🌐 Contato </h2>
 
 <p align="center">
 
