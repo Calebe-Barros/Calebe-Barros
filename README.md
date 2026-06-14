@@ -23,45 +23,22 @@
 
 <div align="center">
 
-<a href="https://skills.yourlearning.ibm.com/certificate/share/8b7190ea18ewogICJsZWFybmVyQ05VTSIgOiAiNzk3OTI5OFJFRyIsCiAgIm9iamVjdFR5cGUiIDogIkFDVElWSVRZIiwKICAib2JqZWN0SWQiIDogIkFMTS1DT1VSU0VfMzgyNjM4MyIKfQa1f03774df-10">
-    <img src="certificados/ibm-skillsbuild-ptic.png" alt="Certificado 1" width="220">
+<a href="https://skills.yourlearning.ibm.com/certificate/share/eb094f8a88ewogICJvYmplY3RJZCIgOiAiUExBTi0zNzQ5QzcyMTE3RTIiLAogICJsZWFybmVyQ05VTSIgOiAiNzk3OTI5OFJFRyIsCiAgIm9iamVjdFR5cGUiIDogIkFDVElWSVRZIgp9d33b6c4907-10">
+    <img src="certificados/ibm-skillsbuild-ad.png" alt="Certificado 1" width="220">
 </a>
 
 <a href="#">
-    <img src="certificados/certificado-02.png" alt="Certificado 2" width="220">
+    <img src="certificados/ibm-skillsbuild-bd.png" alt="Certificado 2" width="220">
 </a>
 
 <a href="#">
-    <img src="certificados/certificado-03.png" alt="Certificado 3" width="220">
+    <img src="certificados/ibm-skillsbuild-iw.png" alt="Certificado 3" width="220">
 </a>
 
-<a href="#">
-    <img src="certificados/certificado-04.png" alt="Certificado 4" width="220">
+<a href="https://skills.yourlearning.ibm.com/certificate/share/ef430ea32bewogICJvYmplY3RUeXBlIiA6ICJBQ1RJVklUWSIsCiAgImxlYXJuZXJDTlVNIiA6ICI3OTc5Mjk4UkVHIiwKICAib2JqZWN0SWQiIDogIlBMQU4tQjJERTVDOTI3RUVDIgp9b3be0777f1-10">
+    <img src="certificados/ibm-skillsbuild-ptic.png" alt="Certificado 4" width="220">
 </a>
-
 </div>
-
-<div align="center">
-
-<a href="https://skills.yourlearning.ibm.com/certificate/share/9eb8ce7868ewogICJvYmplY3RUeXBlIiA6ICJBQ1RJVklUWSIsCiAgImxlYXJuZXJDTlVNIiA6ICI3OTc5Mjk4UkVHIiwKICAib2JqZWN0SWQiIDogIkFMTS1DT1VSU0VfMzgyNjM4NSIKfQbef5aa17a3-10">
-    <img src="certificados/ibm-skillsbuild-ptic2.png" alt="Certificado 5" width="220">
-</a>
-
-<a href="#">
-    <img src="certificados/certificado-02.png" alt="Certificado 6" width="220">
-</a>
-
-<a href="#">
-    <img src="certificados/certificado-03.png" alt="Certificado 7" width="220">
-</a>
-
-<a href="#">
-    <img src="certificados/certificado-04.png" alt="Certificado 8" width="220">
-</a>
-
-</div>
-
-
 
 ---
 
