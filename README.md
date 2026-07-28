@@ -1,158 +1,196 @@
 <p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Calebe%20Barros&fontSize=40&fontColor=ffffff&animation=fadeIn"
-    width="100%"
-    style="display:block;"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Calebe%20Barros&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Estudante%20de%20Informática%20para%20Internet&descAlignY=68"/>
 </p>
 
-<h1 align="center">
-  👋 Olá, eu sou o Calebe 
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWtsN3ZvazNhMDhkcHRqcDVnOG8xYmlkZWNiNm1uNjd4ZmE3cDlzYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ivSCbBQjwLz7q/giphy.gif" width="35px">
-</h1>
+<h1 align="center">👋 Olá, eu sou o Calebe Barros</h1>
 
 <p align="center">
-💻 Estudante de Informática para Internet <br>
-🎓 ETECVAV — INFONET <br>
-🌐 Desenvolvedor focado em Web e Back-End
+  Estudante de <strong>Informática para Internet (INFONET)</strong><br>
+  ETEC Vasco Antônio Venchiarutti (ETECVAV)<br><br>
+
+  Apaixonado por tecnologia, desenvolvimento Web e Back-End.<br>
+  Sempre buscando aprender novas ferramentas e desenvolver projetos cada vez mais completos.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Curso-INFONET-2563EB?style=for-the-badge">
+  <img src="https://img.shields.io/badge/ETECVAV-181717?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Desenvolvimento-Web-10B981?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Back--End-0F766E?style=for-the-badge">
 </p>
 
 ---
 
-<h1 align="center"> 💳 Certificados</h1>
-
 <div align="center">
 
-<a href="https://skills.yourlearning.ibm.com/certificate/share/eb094f8a88ewogICJvYmplY3RJZCIgOiAiUExBTi0zNzQ5QzcyMTE3RTIiLAogICJsZWFybmVyQ05VTSIgOiAiNzk3OTI5OFJFRyIsCiAgIm9iamVjdFR5cGUiIDogIkFDVElWSVRZIgp9d33b6c4907-10">
-    <img src="certificados/ibm-skillsbuild-ad.png" alt="Certificado 1" width="200">
-</a>
+# 👨‍💻 Sobre Mim
 
-<a href="https://skills.yourlearning.ibm.com/certificate/share/a4a62e0b26ewogICJvYmplY3RJZCIgOiAiUExBTi0xNEYyNjkxRTNBMzIiLAogICJsZWFybmVyQ05VTSIgOiAiNzk3OTI5OFJFRyIsCiAgIm9iamVjdFR5cGUiIDogIkFDVElWSVRZIgp9ccb6d2e563-10">
-    <img src="certificados/ibm-skillsbuild-bd.png" alt="Certificado 2" width="200">
-</a>
+Sou estudante do curso Técnico em **Informática para Internet** na **ETEC Vasco Antônio Venchiarutti (ETECVAV)**.
 
-<a href="https://skills.yourlearning.ibm.com/certificate/share/9b9ddb0b0fewogICJsZWFybmVyQ05VTSIgOiAiNzk3OTI5OFJFRyIsCiAgIm9iamVjdElkIiA6ICJQTEFOLTg3NDlDMDJBNzhFQyIsCiAgIm9iamVjdFR5cGUiIDogIkFDVElWSVRZIgp9f5ae346ed9-10">
-    <img src="certificados/ibm-skillsbuild-iw.png" alt="Certificado 3" width="200">
-</a>
+Tenho interesse em desenvolvimento de software, desenvolvimento Web, Banco de Dados e Back-End.
 
-<a href="https://skills.yourlearning.ibm.com/certificate/share/ef430ea32bewogICJvYmplY3RUeXBlIiA6ICJBQ1RJVklUWSIsCiAgImxlYXJuZXJDTlVNIiA6ICI3OTc5Mjk4UkVHIiwKICAib2JqZWN0SWQiIDogIlBMQU4tQjJERTVDOTI3RUVDIgp9b3be0777f1-10">
-    <img src="certificados/ibm-skillsbuild-ptic.png" alt="Certificado 4" width="200">
-</a>
+Meu objetivo é construir projetos cada vez mais profissionais, aprimorar minhas habilidades em programação e criar um portfólio sólido durante minha formação.
+
 </div>
 
 ---
 
-<h2 align="center"> 🚀 Sobre Mim </h2>
+<div align="center">
 
-```yaml
-nome: Calebe Barros Ramalho da Silva
-localização: São Paulo, Brasil
+# 📚 Atualmente Estudando
 
-educação:
-  [
-    "Técnico em Informática para Internet - ETECVAV",
-  ]
+| Área | Status |
+|:---:|:---:|
+| 🌐 HTML5 | ✅ |
+| 🎨 CSS3 | ✅ |
+| ⚡ JavaScript | 📖 |
+| 🐍 Python | 📖 |
+| 🗄️ Banco de Dados | 📖 |
+| 💻 Git & GitHub | 📖 |
 
-áreas_de_interesse:
-  [
-    "Desenvolvimento Web",
-    "Back-End",
-    "Banco de Dados",
-    "Programação",
-    "Tecnologia",
-  ]
-
-atualmente_aprendendo:
-  [
-    "HTML",
-    "CSS",
-  ]
-
-objetivos:
-  [
-    "Criar projetos cada vez mais profissionais",
-    "Melhorar minhas habilidades em programação",
-    "Aprender novas tecnologias",
-  ]
-
-hobbies:
-  [
-    "Gaming",
-    "Música",
-    "Edição",
-    "Desenvolvimento de Projetos",
-  ]
-```
+</div>
 
 ---
 
-<h2 align="center"> 🛠️ Ferramentas e Tecnologias </h2>
+<div align="center">
 
-<p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/45/The_GIMP_icon_-_gnome.svg" width="45" height="45"/>
-</p>
+# 🛠️ Ferramentas e Tecnologias
 
----
+<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode"/>
 
-<h2 align="center"> 🤝 Grupo ACDK </h2>
+<br><br>
 
-```yaml
-grupo:
-  "ACDK"
+### Também utilizo
 
-descrição:
-  "Grupo acadêmico voltado para projetos, atividades e estudos do curso INFONET."
+<img src="https://go-skill-icons.vercel.app/api/icons?i=gimp,figma"/>
 
-disciplinas:
-  [
-    "Desenvolvimento Web",
-    "Banco de Dados",
-    "Arte Digital",
-    "Programação e Algoritmos",
-  ]
-```
-
-<p align="center">
-  <a href="https://github.com/ACDK-ETECVAV">
-    <img src="https://img.shields.io/badge/Grupo-ACDK-2563eb?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+</div>
 
 ---
 
-<h2 align="center"> 🐍 Snake Game </h2>
+<div align="center">
 
-<p align="center">
-  <img src="https://github.com/Calebe-Barros/Calebe-Barros/blob/output/github-contribution-grid-snake-dark.svg">
-</p>
+# 🏆 Certificados
 
----
-
-<h2 align="center"> 🌐 Contato </h2>
-
-<p align="center">
-
-<a href="https://github.com/Calebe-Barros">
-  <img src="https://skillicons.dev/icons?i=github" width="50"/>
+<a href="https://skills.yourlearning.ibm.com/certificate/share/eb094f8a88ewogICJvYmplY3RJZCIgOiAiUExBTi0zNzQ5QzcyMTE3RTIiLAogICJsZWFybmVyQ05VTSIgOiAiNzk3OTI5OFJFRyIsCiAgIm9iamVjdFR5cGUiIDogIkFDVElWSVRZIgp9d33b6c4907-10">
+<img src="certificados/ibm-skillsbuild-ad.png" width="210">
 </a>
+
+<a href="https://skills.yourlearning.ibm.com/certificate/share/a4a62e0b26ewogICJvYmplY3RJZCIgOiAiUExBTi0xNEYyNjkxRTNBMzIiLAogICJsZWFybmVyQ05VTSIgOiAiNzk3OTI5OFJFRyIsCiAgIm9iamVjdFR5cGUiIDogIkFDVElWSVRZIgp9ccb6d2e563-10">
+<img src="certificados/ibm-skillsbuild-bd.png" width="210">
+</a>
+
+<a href="https://skills.yourlearning.ibm.com/certificate/share/9b9ddb0b0fewogICJsZWFybmVyQ05VTSIgOiAiNzk3OTI5OFJFRyIsCiAgIm9iamVjdElkIiA6ICJQTEFOLTg3NDlDMDJBNzhFQyIsCiAgIm9iamVjdFR5cGUiIDogIkFDVElWSVRZIgp9f5ae346ed9-10">
+<img src="certificados/ibm-skillsbuild-iw.png" width="210">
+</a>
+
+<a href="https://skills.yourlearning.ibm.com/certificate/share/ef430ea32bewogICJvYmplY3RUeXBlIiA6ICJBQ1RJVklUWSIsCiAgImxlYXJuZXJDTlVNIiA6ICI3OTc5Mjk4UkVHIiwKICAib2JqZWN0SWQiIDogIlBMQU4tQjJERTVDOTI3RUVDIgp9b3be0777f1-10">
+<img src="certificados/ibm-skillsbuild-ptic.png" width="210">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+# 📂 Projetos em Destaque
+
+| Projeto | Descrição |
+|:--------:|:-----------|
+| 📚 **ETECVAV - INFONET** | Repositório com atividades, trabalhos e projetos do curso. |
+| 🤝 **Grupo ACDK** | Organização criada para o desenvolvimento dos projetos acadêmicos. |
+| 💼 **Portfólio** | Repositório com meus projetos e evolução durante o curso. |
+
+</div>
+
+---
+
+<div align="center">
+
+# 📈 Progresso
+
+| Tecnologia | Nível |
+|:-----------|:------:|
+| HTML | ██████████ 100% |
+| CSS | ████████░░ 80% |
+| JavaScript | ███░░░░░░░ 30% |
+| Python | ███░░░░░░░ 30% |
+| Git & GitHub | ██████░░░░ 60% |
+
+</div>
+
+---
+
+<div align="center">
+
+# 🤝 Grupo Acadêmico
+
+Faço parte da organização **ACDK**, criada para reunir atividades, projetos e trabalhos desenvolvidos durante o curso **INFONET**.
+
+<br>
+
+<a href="https://github.com/ACDK-ETECVAV">
+<img src="https://img.shields.io/badge/Visitar%20Organização-ACDK-2563EB?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🎯 Objetivos
+
+| 🚀 Objetivos |
+|:-------------|
+| Evoluir continuamente como desenvolvedor. |
+| Aprender novas linguagens e tecnologias. |
+| Desenvolver aplicações completas. |
+| Compartilhar conhecimento através do GitHub. |
+| Construir um portfólio sólido. |
+
+</div>
+
+---
+
+<div align="center">
+
+# 🐍 Snake Game
+
+<img src="https://github.com/Calebe-Barros/Calebe-Barros/blob/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🌐 Contato
 
 <a href="mailto:calebebarros108@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" width="50"/>
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-</p>
+<a href="https://github.com/Calebe-Barros">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<!-- Futuramente -->
+<!--
+<a href="https://linkedin.com/in/seu-link">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+-->
+
+</div>
 
 ---
 
 <p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=120&section=footer"
-    width="100%"
-    style="display:block;"
-  />
+  <i>"A melhor forma de aprender é colocando a mão no código."</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=120&section=footer"/>
 </p>
