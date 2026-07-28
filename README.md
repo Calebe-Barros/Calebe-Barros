@@ -73,19 +73,19 @@ Meu objetivo é construir projetos cada vez mais profissionais, aprimorar minhas
 # 🏆 Certificados
 
 <a href="https://skills.yourlearning.ibm.com/certificate/share/eb094f8a88ewogICJvYmplY3RJZCIgOiAiUExBTi0zNzQ5QzcyMTE3RTIiLAogICJsZWFybmVyQ05VTSIgOiAiNzk3OTI5OFJFRyIsCiAgIm9iamVjdFR5cGUiIDogIkFDVElWSVRZIgp9d33b6c4907-10">
-<img src="certificados/ibm-skillsbuild-ad.png" width="210">
+<img src="certificados/ibm-skillsbuild-ad.png" width="200">
 </a>
 
 <a href="https://skills.yourlearning.ibm.com/certificate/share/a4a62e0b26ewogICJvYmplY3RJZCIgOiAiUExBTi0xNEYyNjkxRTNBMzIiLAogICJsZWFybmVyQ05VTSIgOiAiNzk3OTI5OFJFRyIsCiAgIm9iamVjdFR5cGUiIDogIkFDVElWSVRZIgp9ccb6d2e563-10">
-<img src="certificados/ibm-skillsbuild-bd.png" width="210">
+<img src="certificados/ibm-skillsbuild-bd.png" width="200">
 </a>
 
 <a href="https://skills.yourlearning.ibm.com/certificate/share/9b9ddb0b0fewogICJsZWFybmVyQ05VTSIgOiAiNzk3OTI5OFJFRyIsCiAgIm9iamVjdElkIiA6ICJQTEFOLTg3NDlDMDJBNzhFQyIsCiAgIm9iamVjdFR5cGUiIDogIkFDVElWSVRZIgp9f5ae346ed9-10">
-<img src="certificados/ibm-skillsbuild-iw.png" width="210">
+<img src="certificados/ibm-skillsbuild-iw.png" width="200">
 </a>
 
 <a href="https://skills.yourlearning.ibm.com/certificate/share/ef430ea32bewogICJvYmplY3RUeXBlIiA6ICJBQ1RJVklUWSIsCiAgImxlYXJuZXJDTlVNIiA6ICI3OTc5Mjk4UkVHIiwKICAib2JqZWN0SWQiIDogIlBMQU4tQjJERTVDOTI3RUVDIgp9b3be0777f1-10">
-<img src="certificados/ibm-skillsbuild-ptic.png" width="210">
+<img src="certificados/ibm-skillsbuild-ptic.png" width="200">
 </a>
 
 </div>
