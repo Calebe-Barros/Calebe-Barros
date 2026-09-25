@@ -188,10 +188,11 @@ Faço parte da organização **ACDK**, criada para reunir atividades, projetos e
 
 # Repositórios:
 
-[AD](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/AD-Arte-Digital)
-[PA](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/PA-Programa%C3%A7ao-e-Algoritmo)
-[IW](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/IW-Interface-Web)
-[PTIC](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/PTIC-Projetos-de-Tecnologia-de-Informacoes-e-Comunicacoes)
+[AD](https://github.com/Calebe-Barros/AD-Arte-Digital-1D)
+[BD](https://github.com/Calebe-Barros/BD-Banco-de-Dados-1D)
+[PA](https://github.com/Calebe-Barros/PA-Programacao-e-Algoritmo-1D/tree/main)
+[IW](https://github.com/Calebe-Barros/IW-Interface-Web-1-1D)
+[PTIC](https://github.com/Calebe-Barros/PTIC-Projetos-de-Tecnologia-de-Informacoes-e-Comunicacoes)
 
 ---
 
